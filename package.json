@@ -1,0 +1,15 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "social app for posts",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "priya chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
